@@ -1,4 +1,4 @@
-# Computer Organization and System Repository
+# Computer Organization and System
 
 Welcome to the Computer Organization and System repository! This repository is dedicated to storing all your assignments, classwork, design blocks, and other related materials pertaining to the subject matter. Whether you're a student or a professional, this repository aims to organize and manage your work effectively.
 
