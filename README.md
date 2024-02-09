@@ -18,3 +18,17 @@ Computer Organization and System is a fundamental subject that delves into the a
 
 The repository follows a structured approach to organizing its contents. You will find all the files inside the folders.
 
+## Usage
+
+Feel free to utilize this repository and get to know about exciting things about the COS.
+
+## Contributing
+
+Contributions to this repository are welcome! If you have any suggestions for improving any file in the folders, adding useful resources, or anything else related to the subject matter, feel free to open an issue or submit a pull request.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+
+
